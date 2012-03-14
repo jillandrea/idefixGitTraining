@@ -8,8 +8,8 @@ package org.deformation.utilities;
  *
  */
 public class Cprnr {
-    private Long cprnr;
-
+    private Long cprnr = 2511450007L;
+    
     /*
      * Konstruktoer
      * bruges 1 gang per objekt, naar det oprettes med
@@ -19,7 +19,7 @@ public class Cprnr {
      * Den har ingen type (type Object)
      * Der kan vaere flere konstruktoerer, blot de
      * har hver sin kaldesekvens.
-     *
+     * Thomas test
      */
 
     public Cprnr(Long cprInd) {
