@@ -37,6 +37,8 @@ public class Person {
 		this.saldo = s;
 		this.saldoYtd = sY;
 		this.saldoLtd = sL;
+		
+		
 	}
 	
 	public Long getNavn() {
