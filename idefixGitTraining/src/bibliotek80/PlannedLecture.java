@@ -1,7 +1,7 @@
 package bibliotek80;
 
 import java.util.Date;
-
+//Test kommentar
 public class PlannedLecture {
 	private Lecture lecture;
 	private String forum;
