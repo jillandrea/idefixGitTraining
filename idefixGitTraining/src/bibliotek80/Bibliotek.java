@@ -59,7 +59,7 @@ public void udskrivLaanere() {
 public void udskrivAnsatte() {
 	for(int i = 0; i < ansatte.length; i++) {
 		System.out.println(ansatte[i]);
-	
+	}
 }
 
 public String toString() {
